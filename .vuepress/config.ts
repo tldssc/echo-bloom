@@ -6,7 +6,7 @@ export default defineUserConfig({
   head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
-  title: "echo-workspace",
+  title: "echo-space",
   description: "Echo.的个人空间",
   bundler: viteBundler(),
   theme: recoTheme({
