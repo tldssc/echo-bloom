@@ -1,0 +1,19 @@
+{
+  "name": "echo-workspace",
+  "version": "1.0.0",
+  "description": "Echo.的个人空间",
+  "repository": "https://github.com/tldssc/echo-bloom.git",
+  "author": "Echo.<15333513184@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "vue": "^3.5.0",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-theme-reco": "2.0.0-rc.25"
+  }
+}
